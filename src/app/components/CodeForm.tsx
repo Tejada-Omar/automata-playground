@@ -1,6 +1,6 @@
 import RevertButton from "./RevertButton";
 import SubmitButton from "./SubmitButton";
-import Editor from "./Editor";
+import Editor from "./editor/Editor";
 
 export default function CodeForm() {
   return (
